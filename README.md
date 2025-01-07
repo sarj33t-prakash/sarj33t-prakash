@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Sarjeet's Github Stats](https://github-readme-stats.vercel.app/api?username=sarj33t-prakash&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/sarj33t-prakash)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarj33t-prakash&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/sarj33t-prakash/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarj33t-prakash&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/sarj33t-prakash)
 
 I'm a Software Engineer
 
